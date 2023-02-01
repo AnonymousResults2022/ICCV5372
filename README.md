@@ -15,6 +15,6 @@ Please refer to [getting_started.md](docs/en/getting_started.md) for installatio
 ### Newly added Figures and Algorithm can be found in
 ![Histogram with RDD on KITTI.](https://github.com/AnonymousResults2022/CVPR1074/blob/main/Fig2_KITTI_rdd.jpeg)
 ![Histogram with RDD on nuScenes.](https://github.com/AnonymousResults2022/CVPR1074/blob/main/Fig2_nuscenes_rdd.jpeg)
-![Visualization of RDD like Fig1.](https://github.com/AnonymousResults2022/CVPR1074/blob/main/Fig_1_rdd.pdf)
+![Visualization of RDD like Fig1.](https://github.com/AnonymousResults2022/CVPR1074/blob/main/Fig1_rdd.jpeg)
 ![Algorithm.](https://github.com/AnonymousResults2022/CVPR1074/blob/main/algorithm.jpeg)
 
